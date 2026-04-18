@@ -27,7 +27,7 @@ If you prefer to run the project locally rather than on Colab:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/m25de1022_m25de1018_b22ai026_b22es021_m25de1016.git](https://github.com/Mugil6/m25de1022_m25de1018_b22ai026_b22es021_m25de1016.git)
+   git clone https://github.com/Mugil6/m25de1022_m25de1018_b22ai026_b22es021_m25de1016.git
    cd m25de1022_m25de1018_b22ai026_b22es021_m25de1016
 2. Create a virtual environment and install dependencies:
 
